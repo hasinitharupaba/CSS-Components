@@ -1,4 +1,8 @@
-# HTML Code
+# Card 1
+
+![Card 1 preview](/card-1.png "Card-1")
+
+## HTML Code
 
 ```
 <!DOCTYPE html>
@@ -18,7 +22,7 @@
 
 ```
 
-# CSS styles
+## CSS styles
 
 ```
 * {
