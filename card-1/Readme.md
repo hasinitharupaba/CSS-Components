@@ -1,6 +1,6 @@
 # Card 1
 
-![Card 1 preview](/card-1.png "Card-1")
+<img src="/card-1.png" alt="Card 1 preview" style="height: 100px; width:100%;"/>
 
 ## HTML Code
 
