@@ -1,2 +1,3 @@
-# CSS-Components
-This is built to publish simple CSS components that helps beginner developers to practice and get insights from.
+# How to use the components
+
+Each component of this repository has a folder with a markdown file. And the code for each component can be found in that markdown file.
