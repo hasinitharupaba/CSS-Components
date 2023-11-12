@@ -1,8 +1,7 @@
 # Card 1
 
-<img src="/card-1.png" alt="Card 1 preview" style="height: 100px; width:100%;"/>
+![card-1](https://github.com/hasinitharupaba/CSS-Components/assets/83213422/d618d4d0-970b-437f-ae18-f48c1be9ef47)
 
-## HTML Code
 
 ```
 <!DOCTYPE html>
